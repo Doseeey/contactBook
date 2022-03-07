@@ -14,4 +14,5 @@ Functionality and features:
  - delete contact feature,
 
 Preview of working app can be found [here](https://snack.expo.dev/@doseeey/contact-book)
-*it is highly recommended to scan QR code and launch it on iOS phone
+
+*it is highly recommended to scan QR code and launch it on iOS phone*
